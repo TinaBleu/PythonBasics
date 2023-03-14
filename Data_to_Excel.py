@@ -1,3 +1,7 @@
+##Este código es para importar datos desde algún query de Snowflake a un archivo en python. 
+##Está hecho para la versión 3.8 de python
+
+
 ##En caso de requerir una conexión a la nube --> importar librerias para las credenciales (aqui vienen unas adicionales para hacer analisis).
 import numpy as np
 import pandas as pd
