@@ -3,13 +3,13 @@ import numpy as np
 import pandas as pd
 import snowflake.connector as sf
 import datetime as dt
-import matplotlib.pyplot as plt
 import seaborn as sns
 import getpass
-import scipy.stats as stats
-from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
-from collections import Counter
+#import scipy.stats as stats
+#from sklearn.preprocessing import StandardScaler
+#from sklearn.cluster import KMeans
+#from collections import Counter
+#import matplotlib.pyplot as plt
 
 ##Creamos variables que vamos a utilizar en la conexión
 username = input('Usuario Snowflake: ')
